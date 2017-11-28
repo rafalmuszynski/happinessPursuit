@@ -16,5 +16,4 @@ See each file for details on how to run it.
 
 To install required dependencies, run `pip install -r requirements.txt`
 
-Tested using the following versions:
-Python 3.5.2 :: Anaconda 4.2.0 (64-bit)
+Tested using Python 3.5.2
