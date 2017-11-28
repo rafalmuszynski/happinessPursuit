@@ -1,5 +1,5 @@
 # Happiness Pursuit
-Code accompanying the paper "Happiness Pursuit: Personality Learning in a Society of Agents". TODO: add link
+Code accompanying the paper "Happiness Pursuit: Personality Learning in a Society of Agents". TODO: add link to paper and videos
 
 # How to use
 The repository contains the following main files:
