@@ -8,6 +8,7 @@ i.e. with exploration set to 0 (epsilon = 0).
 
 To run it:
 1) you need tensorflow checkpoints for the chosen agent in "checkpoints" folder
+(you can use the pretrained models from the folder ckpt in this repo, they were used to run the experiments)
 2) to capture the correct reward, set REWARD constant to match the chosen agent:
 
 'rewardID_player1' - for ID agent controlling the paddle on the left
