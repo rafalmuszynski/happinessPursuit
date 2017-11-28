@@ -13,3 +13,8 @@ See each file for details on how to run it.
 * tensorflow
 * cv2
 * pygame
+
+To install required dependencies, run `pip install -r requirements.txt`
+
+Tested using the following versions:
+Python 3.5.2 :: Anaconda 4.2.0 (64-bit)
