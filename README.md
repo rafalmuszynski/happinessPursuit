@@ -8,3 +8,8 @@ The repository contains the following main files:
 * match.py - to have 2 trained agents play against each other
 
 See each file for details on how to run it.
+
+# Main dependencies
+* tensorflow
+* cv2
+* pygame
