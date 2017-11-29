@@ -1,5 +1,9 @@
 # Happiness Pursuit
-Code accompanying the paper "Happiness Pursuit: Personality Learning in a Society of Agents". TODO: add link to paper and videos
+Code accompanying the paper "Happiness Pursuit: Personality Learning in a Society of Agents". TODO: add link to paper.
+
+You can see the performance of the agents after training against hand-coded AI [here](https://youtu.be/tOVXdqVxCig)
+
+Link to the video showing the trained agents playing against each other is [here](https://youtu.be/LKtbF0ggvPQ)
 
 # How to use
 The repository contains the following main files:
