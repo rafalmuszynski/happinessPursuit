@@ -1,5 +1,5 @@
 # Happiness Pursuit
-Code accompanying the paper "[Happiness Pursuit: Personality Learning in a Society of Agents](https://arxiv.org/abs/1711.11068)".
+("Research-quality") Code accompanying the paper "[Happiness Pursuit: Personality Learning in a Society of Agents](https://arxiv.org/abs/1711.11068)".
 
 You can see the performance of the agents after training against hand-coded AI [here](https://youtu.be/tOVXdqVxCig).
 
